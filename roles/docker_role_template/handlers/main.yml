@@ -1,4 +1,0 @@
----
-- name: restart container
-  become: true
-  command: docker restart container
